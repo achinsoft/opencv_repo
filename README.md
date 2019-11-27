@@ -6,3 +6,6 @@ Any part of the code is purely used for educational purpose only...
 basic resource code
 
 https://www.analyticsvidhya.com/blog/2014/12/image-processing-python-basics/
+
+
+pip install opencv-python
